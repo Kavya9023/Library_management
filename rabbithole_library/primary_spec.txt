@@ -1,0 +1,23 @@
+study python math FUNCTIONS
+
+final project: libary system
+the stystem will have a libary staff and users
+
+1, keep records of books
+
+
+the books that are being recorded must contain:
+book title
+book author| have title, have full name, 
+book publisher| have name, year established, 
+book production/publisihing year
+book serial numbers
+book genre/category
+
+
+2, search books
+find book by:
+title, author name, publisher, genre/category, year, 
+
+3. libary staff should be able to delete books
+4. staff should be able to register a user
